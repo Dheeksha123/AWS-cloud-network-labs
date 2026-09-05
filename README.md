@@ -1,6 +1,6 @@
- Day 2 – AWS VPC Route Engineering
+# Day 2 – AWS VPC Route Engineering
 
- 1. Objective
+ ##1. Objective
 
 The objective of Day 2 was to understand and implement routing inside an AWS VPC.
 
